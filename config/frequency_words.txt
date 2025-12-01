@@ -1,5 +1,5 @@
-胖东来
-于东来
+小米
+雷军
 
 DeepSeek
 梁文锋
@@ -22,9 +22,6 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
 
 影之刃零
 梁其伟
@@ -69,6 +66,7 @@ deepmind
 chatgpt
 openai
 sora
+longcat
 
 claude
 Anthropic
